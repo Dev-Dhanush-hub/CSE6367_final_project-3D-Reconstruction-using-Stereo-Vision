@@ -1,16 +1,14 @@
 
-3D Reconstruction using Stereo Vision: SAD Disparity and Classical Stereo Triangulation
-Author
-Dhanush Srinivas
+## 3D Reconstruction using Stereo Vision: SAD Disparity and Classical Stereo Triangulation
+Author:Dhanush Srinivas
 Student ID: 1002232331
 Course: CSE 6367 - Computer Vision
 University of Texas at Arlington
-📌 Project Overview
+
+## Project Overview
 This project implements a complete classical stereo vision pipeline to reconstruct 3D geometry from 2D image pairs. We use the 2014 Middlebury Stereo Dataset and rely on Sum of Absolute Differences (SAD) for disparity estimation and classical triangulation for depth recovery.
 
-Rather than using deep learning models (which require training and GPU memory), we rely on lightweight, interpretable algorithms, ideal for educational and embedded vision contexts.
-
-🧠 Theory
+## Theory
 Stereo vision mimics human depth perception. Two cameras separated by a known baseline capture the same scene from different perspectives. The difference in horizontal location (disparity) allows us to calculate depth using:
 
 ini
