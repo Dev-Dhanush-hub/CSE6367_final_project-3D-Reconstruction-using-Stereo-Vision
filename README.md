@@ -18,7 +18,7 @@ Where:
 | ![Raw Disparity](data/output/MPL1.png) | ![Post Disparity](data/output/MPL1.png) |
 
 ### Final 3D Point Cloud
-![3D Point Cloud Output](3d.png)
+![3D Point Cloud Output](bike 3d.png)
 
 ---
 
