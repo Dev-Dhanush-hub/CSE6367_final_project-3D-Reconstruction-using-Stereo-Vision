@@ -15,10 +15,10 @@ Where:
 ### Disparity Maps
 | Raw Disparity | Post-Processed |
 |---------------|----------------|
-| ![Raw Disparity](output/raw_disparity.png) | ![Post Disparity](output/post_disparity.png) |
+| ![Raw Disparity](data/output/MPL1.png) | ![Post Disparity](data/output/MPL1.png) |
 
 ### Final 3D Point Cloud
-![3D Point Cloud Output](output/pointcloud_output.png)
+![3D Point Cloud Output](3d.png)
 
 ---
 
