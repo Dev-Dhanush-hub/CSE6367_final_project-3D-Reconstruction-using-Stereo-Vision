@@ -4,7 +4,7 @@ Dhanush Srinivas
 Student ID: 1002232331
 Course: CSE 6367 - Computer Vision
 University of Texas at Arlington
-📧 dhanush.srinivas@mavs.uta.edu
+📧 dxs2331@mavs.uta.edu
 
 📌 Project Overview
 This project implements a complete classical stereo vision pipeline to reconstruct 3D geometry from 2D image pairs. We use the 2014 Middlebury Stereo Dataset and rely on Sum of Absolute Differences (SAD) for disparity estimation and classical triangulation for depth recovery.
