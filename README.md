@@ -1,8 +1,11 @@
 
 ## 3D Reconstruction using Stereo Vision: SAD Disparity and Classical Stereo Triangulation
 Author:Dhanush Srinivas
+
 Student ID: 1002232331
+
 Course: CSE 6367 - Computer Vision
+
 University of Texas at Arlington
 
 ## Project Overview
@@ -35,7 +38,7 @@ doffs = disparity offset
 ### Disparity Maps
 | Raw Disparity | Post-Processed |
 |---------------|----------------|
-| ![Raw Disparity](data/output/MPL1.png) | ![Post Disparity](data/output/MPL1.png) |
+| ![Raw Disparity](data/output/MPL1.png) | ![Post Disparity](data/output/disp_MPL.png) |
 
 ### Final 3D Point Cloud
 ![3D Point Cloud Output](3d.png)
