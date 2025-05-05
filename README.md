@@ -98,7 +98,7 @@ We used the **“Recycling”** stereo pair from the [2014 Middlebury Stereo Dat
 
 ## 📎 References
 
-> Full citations available in [`references.bib`](./references.bib)
+> Full citations available in [`references.bib`](./Report.pdf)
 
 - [Middlebury Stereo Dataset](https://vision.middlebury.edu/stereo/)
 - Howard & Rogers (2012) – *Perceiving in Depth*
