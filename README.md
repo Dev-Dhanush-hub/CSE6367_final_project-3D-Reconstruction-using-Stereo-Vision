@@ -10,7 +10,7 @@ Where:
 ### Stereo Image Pair
 | Left Image | Right Image |
 |------------|-------------|
-| ![Left Image](data/left_image.png) | ![Right Image](data/right_image.png) |
+| ![Left Image](data/images/im0.png) | ![Right Image](data/images/im1.png) |
 
 ### Disparity Maps
 | Raw Disparity | Post-Processed |
