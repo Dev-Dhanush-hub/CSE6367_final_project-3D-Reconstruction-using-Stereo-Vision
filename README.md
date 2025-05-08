@@ -1,5 +1,6 @@
-![3D Point Cloud Output]()
+
 ## 3D Reconstruction using Stereo Vision: SAD Disparity and Classical Stereo Triangulation
+[3D Point Cloud Output](Desktop 2025.05.05 - 20.32.39.06.gif)
 Author:Dhanush Srinivas
 
 Student ID: 1002232331
