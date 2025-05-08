@@ -1,6 +1,6 @@
 ## 3D Reconstruction using Stereo Vision: SAD Disparity and Classical Stereo Triangulation
 
-[3D Point](data/images/3D.gif)
+![3D Point](data/images/3D.gif)
 
 Author:Dhanush Srinivas
 
